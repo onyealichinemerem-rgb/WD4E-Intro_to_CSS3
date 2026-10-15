@@ -1,0 +1,42 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 150%;
+  
+}
+
+main{
+  background-color: rgb(231, 236, 241);
+}
+header {
+  background-color: rgb(218, 255, 170);
+}
+ nav{
+background-color: black;
+ }
+ li{
+  display: inline-block;
+  width: 27%;
+  background-color: grey;
+  gap: 10px;
+  text-align: center;
+  color: black;
+ }
+
+ li a {
+  text-decoration: none;
+  color: black;
+ }
+
+ footer{
+  background-color: lightcoral;
+ }
+ h1{
+  text-align: center;
+ }
+ p{
+  line-height: 40px;
+ }
+ main a{
+   
+  color: rgb(8, 78, 40);
+ }
