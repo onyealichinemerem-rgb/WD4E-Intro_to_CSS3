@@ -10,17 +10,24 @@ main{
 header {
   background-color: rgb(218, 255, 170);
 }
+header .img{
+  width: 10%;
+
+}
  nav{
-background-color: black;
+
+display: inline-block;
+width: 80%;
+gap: 10px;
  }
- li{
+ /* li{
   display: inline-block;
   width: 27%;
   background-color: grey;
   gap: 10px;
   text-align: center;
   color: black;
- }
+ } */
 
  li a {
   text-decoration: none;
